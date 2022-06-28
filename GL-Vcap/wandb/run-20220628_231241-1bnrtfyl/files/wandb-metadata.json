@@ -1,0 +1,22 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.1",
+    "heartbeatAt": "2022-06-28T15:12:49.054413",
+    "startedAt": "2022-06-28T15:12:41.487298",
+    "docker": null,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/lvzhuanghu/PycharmProjects/GL-Vcap-628/GL-Vcap/train_ASTGCN_r.py",
+    "codePath": "GL-Vcap/train_ASTGCN_r.py",
+    "git": {
+        "remote": "git@github.com:wannaone/GL-Vcap.git",
+        "commit": "9f32e09597cd7eac4428346b38d2b9b6705abfe7"
+    },
+    "email": "wanna_one@outlook.com",
+    "root": "/Users/lvzhuanghu/PycharmProjects/GL-Vcap-628",
+    "host": "Lvzhuanghus-MacBook-Pro.local",
+    "username": "lvzhuanghu",
+    "executable": "/Users/lvzhuanghu/Downloads/anaconda3/python.app/Contents/MacOS/python"
+}
